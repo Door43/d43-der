@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[der:home|Door43 (der)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-der|d43-der repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-der/archive/master.zip|d43-der.zip]]
+
+**Recent Changes**
+{{changes>ns = der}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/der|Ethnologue data]]
+
